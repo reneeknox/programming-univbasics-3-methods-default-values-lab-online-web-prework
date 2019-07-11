@@ -1,1 +1,2 @@
-def # Your code here
+  #method meal_choice   
+def meal_choice
